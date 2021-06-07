@@ -14,6 +14,16 @@ Be sure the output contains the original string.
 Use a single output statement to construct the output.
 Use a built-in function of the programming language to determine the length of the string.
  */
+
+
+
+  // UCF COP3330 Summer 2021 Assignment 1 Solution
+   //Copyright 2021 Anthony Banaag
+
+
+
+
+
 import java.util.Scanner;
 
 
